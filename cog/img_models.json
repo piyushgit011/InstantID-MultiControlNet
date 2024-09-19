@@ -1,10 +1,10 @@
 {
     "model": [
         {
-            "name": "AlbedoBase XL V2",
-            "filename": "albedobase_xl.safetensors",
-            "url": "https://civitai.com/api/download/models/281176",
-            "cacheFolder": "./checkpoints/albedobase_xl"
+            "name": "DreamShaper XL",
+            "filename": "dreamshaper_xl.safetensors",
+            "url": "https://civitai.com/api/download/models/354657",
+            "cacheFolder": "./checkpoints/dreamshaper_xl"
         },
         {
             "name": "Juggernaut XL V8",
@@ -13,22 +13,10 @@
             "cacheFolder": "./checkpoints/juggernaut_xl"
         },
         {
-            "name": "Animagine XL V3",
+            "name": "RealVisXL V5.0",
             "filename": "animagine_xl.safetensors",
-            "url": "https://civitai.com/api/download/models/293564",
-            "cacheFolder": "./checkpoints/animagine_xl"
-        },
-        {
-            "name": "HelloWorld XL 5.0 GPT4V",
-            "filename": "helloworld_xl.safetensors",
-            "url": "https://civitai.com/api/download/models/338512",
-            "cacheFolder": "./checkpoints/helloworld_xl"
-        },
-        {
-            "name": "SDXL RongHua V4",
-            "filename": "ronghua_xl.safetensors",
-            "url": "https://civitai.com/api/download/models/253479",
-            "cacheFolder": "./checkpoints/ronghua_xl"
+            "url": "https://civitai.com/api/download/models/798204",
+            "cacheFolder": "./checkpoints/realvis_xl"
         }
     ]
 }
